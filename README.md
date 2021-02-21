@@ -43,7 +43,7 @@ The conclusions of my analysis can be found in the following blogpost:
 
 https://lordmikis.medium.com/professional-developers-with-the-highest-income-who-are-they-b156e63d63fc
 
-## Acknowledgements and Licensing <a name="licensing"</a>
+## Acknowledgements and Licensing <a name="licensing"></a>
   
   I would like to thank Udacity for this great opportunity and Stack Overflow for sharing the data from their survey.
 
