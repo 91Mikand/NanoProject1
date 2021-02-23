@@ -30,6 +30,15 @@ I wanted to create a profile of a high-earning developer, hence I asked the foll
     1. In which countries professional developers earn the most?
     2. Does formal education have an impact on the Salary of a profesional developer?
     3. Is programming still a male-dominated field? Does Gender affect the Salary?
+ 
+I used the CRISP-DM process while working on this project.
+
+I started with **Business Understanding** - I carefully chose the questions I wanted to ask and made sure that they were business-relevant/
+Then, I proceeded to the next step in the CRISP-DM process: **Data Understanding** - I reviewed the and explored the datasets I worked on to make sure that I was aware of what can and what cannot be found in the data.
+Following that, I moved on to the next step **Preparation of the Data** - I cleaned the datasets, so that they contained only relevant and clean data.
+Then, I started the next step which involves **Data Modeling and Analysis**. I analyzed the data accordingly to the business questions and created visualizations to illustrate my findings.
+The questions I was answering did not require any predictive models, so I was able to move on to the last step right away:
+**Evaluate the Results** - I evaluated the result with visualizations and the blogpost on **Medium.com**
 
 ## Files <a name="files"></a>
 
